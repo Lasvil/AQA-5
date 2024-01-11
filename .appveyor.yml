@@ -1,4 +1,4 @@
-version: 1.0.{build}
+
 image: Ubuntu2004  # образ для сборки
 
 stack: jdk 11  # версия JDK
@@ -6,7 +6,7 @@ stack: jdk 11  # версия JDK
 branches:
   only:
     - master  # ветка git
-
+version: 1.0.{build}
 build:
 verbosity: minimal
 
