@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5swlmx2570txty86/branch/main?svg=true)](https://ci.appveyor.com/project/Lasvil/aqa-5/branch/main)
